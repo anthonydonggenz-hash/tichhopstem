@@ -1,0 +1,6 @@
+{
+  "name": "STEM OS",
+  "description": "Hệ điều hành hỗ trợ giáo viên thiết kế bài giảng STEM bằng AI, tự động tạo kế hoạch dạy học, phiếu học sinh và prompt media.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
